@@ -1,0 +1,10 @@
+body {
+  padding: 10px;
+  -webkit-columns: 300px;
+          columns: 300px;
+  color: #7622aa;
+}
+
+.box a {
+    display: block;
+  }
