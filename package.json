@@ -6,7 +6,7 @@
     "watch": "gulp watch"
   },
   "dependencies": {
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "jquery-smooth-scroll": "^2.2.0",
     "lazysizes": "^4.0.2",
     "normalize.css": "^8.0.0",
